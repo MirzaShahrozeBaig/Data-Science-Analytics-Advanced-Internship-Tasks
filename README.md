@@ -141,6 +141,40 @@ Python, Pandas, NumPy, Scikit-learn, Statsmodels, Prophet, XGBoost, Matplotlib, 
 
 ---
 
+# 🟢 Task 3: Loan Default Risk Prediction
+
+## 🎯 Objective
+
+Predict whether a customer will default on a loan and optimize decisions based on business cost.
+
+## ⚙️ Approach
+
+* Data cleaning and preprocessing
+* Encoding categorical variables
+* Logistic Regression model for classification
+* Model evaluation using Confusion Matrix and F1 Score
+* Applied threshold tuning to reduce business cost
+
+## 📊 Key Idea
+
+* False Negative → High financial loss
+* False Positive → Lost opportunity
+* Optimized threshold to minimize total cost
+
+## 📈 Result
+
+* Built a model to predict loan default risk
+* Improved decision-making using cost-based optimization
+
+## 🛠 Tools
+
+Python, Pandas, NumPy, Scikit-learn
+
+## 🧾 Conclusion
+
+This project shows how machine learning can help reduce financial risk by combining prediction with business cost optimization.
+
+
 # 🟢 Task 5: Interactive Business Dashboard (Streamlit)
 
 ## 🎯 Objective
